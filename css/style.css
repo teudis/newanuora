@@ -202,7 +202,7 @@ body {
 }
 
 .custom_nav-container .navbar-nav .nav-item:hover .nav-link, .custom_nav-container .navbar-nav .nav-item.active .nav-link {
-  background-color: #206a5d;
+  background-color: #5C4CDF;
 }
 
 a,
@@ -384,11 +384,8 @@ a:focus {
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
   border: 1px solid transparent;
-  border-radius: 25px;
-  border-style: solid;
-  border-width: 1px;
-  border-color: #fff;
-  border-radius: 25px; 
+  border-radius: 25px;  
+  border-color: #fff;  
 }
 
 .slider_section .detail-box .btn-box .btn-2:hover {
