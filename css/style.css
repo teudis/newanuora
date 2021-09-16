@@ -372,8 +372,7 @@ a:focus {
 
 }
 .btn-login:hover {
-
-  background-color: transparent;
+  background: rgba( 255, 255, 255, 0.45 );
   border-color: #ffffff;
   color: #ffffff;
   outline: none;
