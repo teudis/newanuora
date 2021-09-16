@@ -334,7 +334,7 @@ a:focus {
 .slider_section .detail-box h1 {
   text-transform: uppercase;
   font-size: 1.8rem;
-  color: #ffc800;
+  color: #94e774;
   font-weight: 600;
 }
 
@@ -389,8 +389,9 @@ a:focus {
 }
 
 .slider_section .detail-box .btn-box .btn-2:hover {
-  background-color: transparent;
-  border-color: #5C4CDF;;
+  background-color: #5C4CDF;
+  border-color: #5C4CDF;
+  color: #ffffff
   
 }
 
