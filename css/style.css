@@ -474,7 +474,8 @@ a:focus {
 }
 
 .service_section .box {
-  background-color: #ffffff;
+  background: rgba( 255, 255, 255, 0.3 );
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
   padding: 25px 15px;
   text-align: center;
   -webkit-box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.2);
@@ -484,6 +485,8 @@ a:focus {
   -webkit-backdrop-filter: blur( 4px );
 border-radius: 10px;
 border: 1px solid rgba( 255, 255, 255, 0.18 );
+
+
 }
 
 .service_section .box .img-box img {
@@ -502,7 +505,7 @@ border: 1px solid rgba( 255, 255, 255, 0.18 );
 }
 
 .service_section .box .detail-box a {
-  color: #81b214;
+  color: #5C4CDF;
   font-weight: 600;
 }
 
