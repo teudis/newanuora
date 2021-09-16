@@ -363,8 +363,7 @@ a:focus {
 
   padding: 10px 35px;
   background-color: #5C4CDF;
-  color: #ffffff;
-  -webkit-transition: all 0.3s;
+  color: #ffffff; 
   transition: all 0.3s;
   border: 1px solid transparent;
   border-radius: 25px; 
@@ -414,8 +413,8 @@ a:focus {
 }
 
 .slider_section .detail-box .btn-box .btn-2:hover {
-  background-color: #5C4CDF;
-  border-color: #5C4CDF;
+  background: rgba( 255, 255, 255, 0.45 );
+  border-color: #ffffff;
   color: #ffffff
   
 }
