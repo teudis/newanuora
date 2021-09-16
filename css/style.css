@@ -359,6 +359,31 @@ a:focus {
   margin: 5px;
 }
 
+.btn-login{
+
+  padding: 10px 35px;
+  background-color: #5C4CDF;
+  color: #ffffff;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  border: 1px solid transparent;
+  border-radius: 25px; 
+  margin-top: 20px;
+  outline: none;
+
+}
+.btn-login:hover {
+
+  background-color: transparent;
+  border-color: #ffffff;
+  color: #ffffff;
+  outline: none;
+}
+
+.btn-login:focus{
+  outline: none;
+}
+
 .slider_section .detail-box .btn-box .btn-1 {
   display: inline-block;
   padding: 10px 35px;
