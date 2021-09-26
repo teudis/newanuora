@@ -13,7 +13,7 @@ $(".client_owl-carousel").owlCarousel({
     nav: true,
     navText: [],
     autoplay: true,
-    autoplayTimeout: 2000,
+    autoplayTimeout: 2500,
     autoplayHoverPause: true,   
     responsive: {
         0: {
