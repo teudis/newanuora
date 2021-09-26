@@ -13,8 +13,8 @@ $(".client_owl-carousel").owlCarousel({
     nav: true,
     navText: [],
     autoplay: true,
-    autoplayTimeout: 2500,
-    autoplayHoverPause: true,   
+    autoplayTimeout: 2000,
+    autoplayHoverPause: true,    
     responsive: {
         0: {
             items: 1
