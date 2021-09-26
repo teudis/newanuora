@@ -12,7 +12,8 @@ $(".client_owl-carousel").owlCarousel({
     dots: false,
     nav: true,
     navText: [],
-    autoplay: 10,
+    autoplay: true,
+    autoplayTimeout: 2000,
     autoplayHoverPause: true,   
     responsive: {
         0: {
