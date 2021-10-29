@@ -509,8 +509,7 @@ a:focus {
 }
 
 .service_section .box {
-  background: rgba( 67, 225, 57, 0.55 );
-  
+  background: rgba( 255, 255, 255, 0.65 );  
   padding: 25px 15px;
   text-align: center;
   -webkit-box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.2);
@@ -518,7 +517,8 @@ a:focus {
   margin-top: 45px;
   backdrop-filter: blur( 4px );
   -webkit-backdrop-filter: blur( 4px );
-border-radius: 10px;
+  border-radius: 10px;
+  border: 3px solid #28A745;
 
 
 
@@ -542,6 +542,7 @@ border-radius: 10px;
   font-weight: bold;
   text-transform: uppercase;
   margin-bottom: 20px;
+  color: #28A745 ;
 }
 
 .service_section .box .detail-box a {
@@ -553,7 +554,7 @@ border-radius: 10px;
 
 .card-pricing.popular {
   z-index: 1;
-  border: 3px solid #007bff;
+  border: 3px solid #28A745;
 }
 .card-pricing .list-unstyled li {
   padding: .5rem 0;
